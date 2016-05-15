@@ -1,2 +1,2 @@
 ## Synopsis
-This is a repo for my own deep learning course code.
+This is a repo for my own deep learning course (udacity) code.
